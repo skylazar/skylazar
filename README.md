@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @skylazar
 - 👀 I’m interested in IT, tech...
-- 🌱 I’m currently learning 
 - 📫 How to reach me - Denmark
 
 <!---
